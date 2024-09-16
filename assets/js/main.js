@@ -212,25 +212,29 @@ document.addEventListener('DOMContentLoaded', () => {
 
 document.addEventListener("DOMContentLoaded", function () {
   const lazyBackgrounds = document.querySelectorAll('.carousel-item[data-bg]');
+  let imagesLoaded = 0;
 
-  const lazyLoad = (entries, observer) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        const div = entry.target;
-        div.style.backgroundImage = `url(${div.getAttribute('data-bg')})`;
-        div.removeAttribute('data-bg');
-        observer.unobserve(div);
-      }
-    });
+  const preloadImage = (src, callback) => {
+    const img = new Image();
+    img.src = src;
+    img.onload = callback;
   };
 
-  const observer = new IntersectionObserver(lazyLoad, {
-    root: null,
-    rootMargin: '0px',
-    threshold: 0.1
-  });
+  const onImageLoad = () => {
+    imagesLoaded++;
+    if (imagesLoaded === lazyBackgrounds.length) {
+      // Todas as imagens foram carregadas, iniciar o carrossel
+      lazyBackgrounds.forEach(div => {
+        const src = div.getAttribute('data-bg');
+        div.style.backgroundImage = `url(${src})`;
+        div.removeAttribute('data-bg');
+      });
+      // Iniciar o carrossel aqui, se necessário
+    }
+  };
 
   lazyBackgrounds.forEach(div => {
-    observer.observe(div);
+    const src = div.getAttribute('data-bg');
+    preloadImage(src, onImageLoad);
   });
 });
