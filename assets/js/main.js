@@ -223,13 +223,16 @@ document.addEventListener("DOMContentLoaded", function () {
   const onImageLoad = () => {
     imagesLoaded++;
     if (imagesLoaded === lazyBackgrounds.length) {
-      // Todas as imagens foram carregadas, iniciar o carrossel
+      // Todas as imagens foram carregadas, definir o background
       lazyBackgrounds.forEach(div => {
         const src = div.getAttribute('data-bg');
         div.style.backgroundImage = `url(${src})`;
         div.removeAttribute('data-bg');
       });
-      // Iniciar o carrossel aqui, se necessário
+
+      // Iniciar o carrossel após o carregamento
+      const carouselElement = new bootstrap.Carousel(document.getElementById('hero-carousel'));
+      carouselElement.cycle(); // Começar o carrossel
     }
   };
 
