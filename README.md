@@ -26,7 +26,12 @@ Mobile-adapted layout
 
 <div align="center">
   <h3>🖥️ Desktop Version</h3>
-  <img src="https://i.imgur.com/SEU-CODIGO.png" width="90%" alt="Desktop screenshot" style="border: 1px solid #eee; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+ <img 
+  src="https://i.imgur.com/mnjSEGa.gif" 
+  width="90%" 
+  alt="Desktop screenshot" 
+  style="border: 1px solid #eee; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+/>
   
   <h3>📱 Mobile Version</h3> 
   <img src="https://i.imgur.com/SEU-CODIGO-MOBILE.png" width="30%" alt="Mobile screenshot" style="border: 1px solid #eee; border-radius: 6px;"/>
