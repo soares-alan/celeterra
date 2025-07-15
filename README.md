@@ -27,7 +27,7 @@ Mobile-adapted layout
 <div align="center">
   <h3>🖥️ Desktop Version</h3>
  <img 
-  src="https://i.imgur.com/mnjSEGa.gif" 
+  src="https://i.imgur.com/I6Mgdii.gif" 
   width="90%" 
   alt="Desktop screenshot" 
   style="border: 1px solid #eee; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
