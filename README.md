@@ -94,4 +94,4 @@ Email: [milkboxdev@gmail.com](mailto:milkboxdev@gmail.com)
 LinkedIn: [Alan Soares](https://www.linkedin.com/in/soares-alan/)
 Portfólio: Soon
 
-<p align="center"> <strong>Obrigado por visitar este projeto.</strong><br /> Para mais projetos e informações, acesse meu portfólio ou entre em contato. </p>
+<p align="center"> <strong>Thanks for visiting this project.</strong><br /> For more projects and information, check out my portfolio or get in touch. </p>
