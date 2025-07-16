@@ -34,7 +34,7 @@ Mobile-adapted layout
 />
   
   <h3>📱 Mobile Version</h3> 
-  <img src="https://i.imgur.com/SEU-CODIGO-MOBILE.png" width="30%" alt="Mobile screenshot" style="border: 1px solid #eee; border-radius: 6px;"/>
+  <img src="https://i.imgur.com/Lai69k1.gif" width="30%" alt="Mobile screenshot" style="border: 1px solid #eee; border-radius: 6px;"/>
 </div>
 
 ---
