@@ -59,16 +59,16 @@ A **high-performance corporate website** developed for a civil construction comp
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
     <div style="flex: 1; min-width: 300px;">
-      <img src="https://i.imgur.com/tcLXjWQ.gif" alt="Hero Section" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1);"/>
-      <p><strong>Modern Hero Section</strong></p>
+      <img src="https://i.imgur.com/tcLXjWQ.gif" alt="" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1);"/>
+      <p><strong>Expert Solutions</strong></p>
     </div>
     <div style="flex: 1; min-width: 300px;">
       <img src="https://i.imgur.com/HoAcqu4.gif" alt="Services" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1);"/>
       <p><strong>Services Showcase</strong></p>
     </div>
     <div style="flex: 1; min-width: 300px;">
-      <img src="https://i.imgur.com/print3.jpg" alt="Contact" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1);"/>
-      <p><strong>Interactive Contact Form</strong></p>
+      <img src="https://i.imgur.com/PpZr2Cz.gif" alt="about" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1);"/>
+      <p><strong>About Us</strong></p>
     </div>
   </div>
 </div>
@@ -124,7 +124,7 @@ SEO Score	92/100 (Google Lighthouse)
 Bounce Rate	Reduced by 35%
 Lead Generation	40% increase post-launch
 ## 🌐 Live Deployment
-[![Live Site](https://img.shields.io/badge/View-Live_Site-2ea44f?style=for-the-badge)](https://seusite.com)
+[![Live Site](https://img.shields.io/badge/View-Live_Site-2ea44f?style=for-the-badge)](https://soares-alan.github.io/celeterra/)
 
 
 ## 📬 Let's Connect
