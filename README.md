@@ -1,5 +1,5 @@
 
-# 🏗️ Corporate Website - Civil Construction Sector  
+# 🏗️ Corporate Website - Construction Sector  
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen) 
 ![License](https://img.shields.io/badge/License-MIT-blue) 
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-9cf) 
@@ -9,7 +9,7 @@
   <img src="https://i.postimg.cc/8CTpdxjf/Screenshot-2025-07-18-at-15-09-10.png" width="80%" alt="Website Demo" style="border-radius:12px;box-shadow:0 8px 16px rgba(0,0,0,0.15);"/>
 </div>
 
-> 💬 *A modern landing page built for a civil construction company, with a strong focus on clean design, accessibility, and performance.*  
+> 💬 *A modern landing page built for a construction company, with a strong focus on clean design, accessibility, and performance.*  
 >  
 > This project showcases my ability to develop professional, scalable, and responsive websites using modern web technologies like HTML5, CSS3, JavaScript, and Bootstrap.  
 >  
@@ -18,7 +18,7 @@
 
 ## ✨ Project Highlights
 
-A **high-performance corporate website** developed for a civil construction company, focusing on:
+A **high-performance corporate website** developed for a construction company, focusing on:
 
 - 🚀 **Digital Transformation** of client's service presentation  
 - ♿ **WCAG 2.1** accessibility fundamentals  
