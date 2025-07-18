@@ -5,7 +5,7 @@
 ![Client](https://img.shields.io/badge/Client-Satisfied-green)
 
 <div align="center">
-  <img src="https://i.imgur.com/dfUSFRi.gif" width="80%" alt="Website Demo" style="border-radius:12px;box-shadow:0 8px 16px rgba(0,0,0,0.15);"/>
+  <img src="https://s6.ezgif.com/tmp/ezgif-638db162372441.gif" width="80%" alt="Website Demo" style="border-radius:12px;box-shadow:0 8px 16px rgba(0,0,0,0.15);"/>
 </div>
 
 ## ✨ Project Highlights
